@@ -7,10 +7,11 @@ I use this repo to learn, practice, and improve my skills in **Java, C++, and ot
 
 ## 📂 Projects Included
 
-| # | Project Name       | Description                                  | Language |
-|---|--------------------|----------------------------------------------|----------|
-| 1 | Library System     | Mini system to borrow and display books      |   Java   |
-| … | More coming soon!  | Stay tuned as I add new practice projects.   |          |
+| # | Project Name       | Description                                          | Language |
+|---|--------------------|------------------------------------------------------|----------|
+| 1 | Library System     | Mini system to borrow and display books              |   Java   |
+| 2 | ATM System         | Simple Atm System that perform basic withdrawal etc. |   Java   |
+| … | More coming soon!  | Stay tuned as I add new practice projects.           |          |
 
 ---
 
