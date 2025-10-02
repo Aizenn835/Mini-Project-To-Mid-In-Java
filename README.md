@@ -11,6 +11,7 @@ I use this repo to learn, practice, and improve my skills in **Java, C++, and ot
 |---|--------------------|------------------------------------------------------|----------|
 | 1 | Library System     | Mini system to borrow and display books              |   Java   |
 | 2 | ATM System         | Simple Atm System that perform basic withdrawal etc. |   Java   |
+| 2 | Contact book       | Simple Contact book simulator in java                |   Java   |
 | … | More coming soon!  | Stay tuned as I add new practice projects.           |          |
 
 ---
